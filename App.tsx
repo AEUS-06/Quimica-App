@@ -37,7 +37,14 @@ const elementos = [
   { simbolo: 'Ca', nombre: 'Calcio', numeroAtomico: 20, grupo: 2, periodo: 4 },
   { simbolo: 'Sc', nombre: 'Escandio', numeroAtomico: 21, grupo: 3, periodo: 4 },
   { simbolo: 'Ti', nombre: 'Titanio', numeroAtomico: 22, grupo: 4, periodo: 4 },
-  { simbolo: 'V', nombre: 'Vanadio', numeroAtomico: 23, grupo: 5, periodo: 4 },,
+  { simbolo: 'V', nombre: 'Vanadio', numeroAtomico: 23, grupo: 5, periodo: 4 },
+  { simbolo: 'Cr', nombre: 'Cromo', numeroAtomico: 24, grupo: 6, periodo: 4 },
+  { simbolo: 'Mn', nombre: 'Manganeso', numeroAtomico: 25, grupo: 7, periodo: 4 },
+  { simbolo: 'Fe', nombre: 'Hierro', numeroAtomico: 26, grupo: 8, periodo: 4 },
+  { simbolo: 'Co', nombre: 'Cobalto', numeroAtomico: 27, grupo: 9, periodo: 4 },
+  { simbolo: 'Ni', nombre: 'Níquel', numeroAtomico: 28, grupo: 10, periodo: 4 },
+  { simbolo: 'Cu', nombre: 'Cobre', numeroAtomico: 29, grupo: 11, periodo: 4 },
+  { simbolo: 'Zn', nombre: 'Zinc', numeroAtomico: 30, grupo: 12, periodo: 4 },
   // Agrega los 88 elementos restantes aquí...
 ];
 
